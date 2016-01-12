@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name               = "MKStoreKit"
+  s.name               = "MKStoreKit-GOK"
   s.version            = '6.0-beta1'
   s.summary            = 'An in-App Purchase framework for iOS 7.0+.'
   s.homepage           = 'https://github.com/MugunthKumar/MKStoreKit'
